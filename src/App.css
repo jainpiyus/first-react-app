@@ -1,4 +1,12 @@
 .App {
+    overflow-x: hidden;
+    
+ }
+ .main {
+  background: rgb(245, 245, 245);
+ }
+  
+/* .App {
   text-align: center;
 }
 
@@ -35,4 +43,4 @@
   to {
     transform: rotate(360deg);
   }
-}
+} */

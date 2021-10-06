@@ -1,0 +1,11 @@
+.product-image {
+    height: 300px;
+    width: 100%;
+}
+
+.card {
+    
+    border-radius: 10px !important;
+    background: none;
+    border: 0;
+}
